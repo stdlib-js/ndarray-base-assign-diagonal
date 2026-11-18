@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-17)
+## Unreleased (2026-11-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5f2fd5a`](https://github.com/stdlib-js/stdlib/commit/5f2fd5ad621095b8b7dd65434f6090d9b042a3cb) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`04df932`](https://github.com/stdlib-js/stdlib/commit/04df93287fb44ab4c5c0d9adf6a840067aa3da47) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`3361449`](https://github.com/stdlib-js/stdlib/commit/33614496a0eb06b7e87b906296815f606b3e3df7) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`da42829`](https://github.com/stdlib-js/stdlib/commit/da42829a85a53e5778d5b18121d5e1a693fb4817) - **docs:** use dedicated zero-dimensional tensor constructor in `ndarray/base/assign-diagonal` [(#16656)](https://github.com/stdlib-js/stdlib/pull/16656) _(by Yug Bhatia)_
